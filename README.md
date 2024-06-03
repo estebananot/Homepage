@@ -1,2 +1,2 @@
-# estebananot-homepage
-My first personal website. Basically it is just a résumé.
+# Homepage
+My first personal website. https://estebananot.github.io/Homepage/
