@@ -1,2 +1,2 @@
 # Homepage
-https://estebananot.github.io/Homepage/
+https://estebananot.github.io/homepage/
